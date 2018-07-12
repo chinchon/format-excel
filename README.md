@@ -1,4 +1,3 @@
 # prettify-excel
-make excel tables readable quickly
+![demo](demo.gif)
 
-- particularly useful for reading csv data in excel
