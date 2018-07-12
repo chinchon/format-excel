@@ -10,7 +10,7 @@ Sub prettify()
     ' turn on filter
     Rows("1:1").AutoFilter
     
-    ' autofit columns using external macro
+    ' auto fit columns using external macro
     Call mAutoWidth
     
     ' wrap header row
