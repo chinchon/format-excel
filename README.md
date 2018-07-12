@@ -1,2 +1,4 @@
 # prettify-excel
-make excel tables more readable quickly
+make excel tables readable quickly
+
+- particularly useful for reading csv data in excel
