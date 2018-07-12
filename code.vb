@@ -10,9 +10,7 @@ Sub prettify()
     ' turn on filter
     Rows("1:1").AutoFilter
     
-    ' autofit columns
-    'Cells.Select
-    'Cells.EntireColumn.AutoFit
+    ' autofit columns using external macro
     Call mAutoWidth
     
     ' wrap header row
