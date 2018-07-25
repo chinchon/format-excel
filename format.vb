@@ -1,4 +1,4 @@
-Sub prettify()
+Sub format()
 '
 ' prettify Macro
 ' make excel tables readable quickly
